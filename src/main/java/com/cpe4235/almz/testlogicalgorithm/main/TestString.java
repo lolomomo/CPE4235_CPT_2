@@ -1,10 +1,10 @@
-package com.cpe4235.selfmylost.testlogicalgorithm.main;
+package com.cpe4235.almz.testlogicalgorithm.main;
 
 import java.util.Scanner;
 
 /**
  *
- * @author RainWhileLoop
+ * @author GunDesstiiniizz
  */
 public class TestString {
 
